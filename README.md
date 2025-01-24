@@ -1455,7 +1455,7 @@
   </tr>
 </table>
 
-## Following <kbd>439</kbd>
+## Following <kbd>438</kbd>
 
 <table>
   <tr>
@@ -4541,20 +4541,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hanyc91539">
-        <img src="https://avatars.githubusercontent.com/u/187315548?v=4" width="50" />
-        <br />
-        hanyc91539
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Salvelop07">
         <img src="https://avatars.githubusercontent.com/u/187376026?v=4" width="50" />
         <br />
         Salvelop07
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Rw04IXbfmSVM">
         <img src="https://avatars.githubusercontent.com/u/187491365?v=4" width="50" />
@@ -4562,6 +4554,7 @@
         Rw04IXbfmSVM
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/techteam92">
         <img src="https://avatars.githubusercontent.com/u/187626758?v=4" width="50" />
@@ -4590,7 +4583,6 @@
         edge2ai
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bismarkarhinful">
         <img src="https://avatars.githubusercontent.com/u/189059188?v=4" width="50" />
@@ -4598,6 +4590,7 @@
         bismarkarhinful
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/urlichelim">
         <img src="https://avatars.githubusercontent.com/u/191227716?v=4" width="50" />
@@ -4618,6 +4611,8 @@
         <br />
         linux-webCodexT50
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

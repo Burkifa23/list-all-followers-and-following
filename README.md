@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>213</kbd>
+## Followers <kbd>214</kbd>
 
 <table>
   <tr>
@@ -775,13 +775,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/otaviossousa">
-        <img src="https://avatars.githubusercontent.com/u/130789571?v=4" width="50" />
-        <br />
-        otaviossousa
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Koech161">
         <img src="https://avatars.githubusercontent.com/u/130507804?v=4" width="50" />
         <br />
@@ -809,7 +802,6 @@
         SaraAhmed1999
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1realvirtuous">
         <img src="https://avatars.githubusercontent.com/u/124633384?v=4" width="50" />
@@ -817,6 +809,7 @@
         1realvirtuous
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JothamHanson">
         <img src="https://avatars.githubusercontent.com/u/124581484?v=4" width="50" />
@@ -845,7 +838,6 @@
         K1rsN7
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/fourby">
         <img src="https://avatars.githubusercontent.com/u/123106574?v=4" width="50" />
@@ -853,6 +845,7 @@
         fourby
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/keithgabriel">
         <img src="https://avatars.githubusercontent.com/u/122814595?v=4" width="50" />
@@ -881,7 +874,6 @@
         Motaman-M
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Azoonex">
         <img src="https://avatars.githubusercontent.com/u/116979870?v=4" width="50" />
@@ -889,6 +881,7 @@
         Azoonex
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lollocenne">
         <img src="https://avatars.githubusercontent.com/u/116589286?v=4" width="50" />
@@ -917,12 +910,19 @@
         iamrohitm
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/COSSAVVU">
         <img src="https://avatars.githubusercontent.com/u/115111295?v=4" width="50" />
         <br />
         COSSAVVU
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/bhza">
+        <img src="https://avatars.githubusercontent.com/u/114709419?v=4" width="50" />
+        <br />
+        bhza
       </a>
     </td>
     <td width="150" align="center">
@@ -1480,12 +1480,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/murapa96">
+        <img src="https://avatars.githubusercontent.com/u/10557163?v=4" width="50" />
+        <br />
+        murapa96
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars.githubusercontent.com/u/7488394?v=4" width="50" />
         <br />
         mustafacagri
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cano392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -1493,7 +1501,6 @@
         cano392
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
@@ -1522,6 +1529,7 @@
         idimetrix
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arash-hacker">
         <img src="https://avatars.githubusercontent.com/u/6451804?v=4" width="50" />
@@ -1529,7 +1537,6 @@
         arash-hacker
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/thai-dinh-tam">
         <img src="https://avatars.githubusercontent.com/u/5972413?v=4" width="50" />
@@ -1550,8 +1557,6 @@
         <br />
         stevsharp
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

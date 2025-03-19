@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>214</kbd>
+## Followers <kbd>213</kbd>
 
 <table>
   <tr>
@@ -1480,20 +1480,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/murapa96">
-        <img src="https://avatars.githubusercontent.com/u/10557163?v=4" width="50" />
-        <br />
-        murapa96
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars.githubusercontent.com/u/7488394?v=4" width="50" />
         <br />
         mustafacagri
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cano392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -1501,6 +1493,7 @@
         cano392
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
@@ -1529,7 +1522,6 @@
         idimetrix
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arash-hacker">
         <img src="https://avatars.githubusercontent.com/u/6451804?v=4" width="50" />
@@ -1537,6 +1529,7 @@
         arash-hacker
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/thai-dinh-tam">
         <img src="https://avatars.githubusercontent.com/u/5972413?v=4" width="50" />
@@ -1557,6 +1550,8 @@
         <br />
         stevsharp
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
@@ -3648,10 +3643,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mahamad008">
+      <a href="https://github.com/Najiib008">
         <img src="https://avatars.githubusercontent.com/u/123385057?v=4" width="50" />
         <br />
-        mahamad008
+        Najiib008
       </a>
     </td>
   </tr><tr>

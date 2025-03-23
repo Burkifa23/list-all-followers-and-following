@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/AhooraRamesh">
+        <img src="https://avatars.githubusercontent.com/u/204487753?v=4" width="50" />
+        <br />
+        AhooraRamesh
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/VicTorWHoX">
         <img src="https://avatars.githubusercontent.com/u/202363599?v=4" width="50" />
         <br />
@@ -46,6 +53,7 @@
         kayukeee
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aburraspace">
         <img src="https://avatars.githubusercontent.com/u/196363280?v=4" width="50" />
@@ -53,7 +61,6 @@
         aburraspace
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/LinuxJS">
         <img src="https://avatars.githubusercontent.com/u/193270912?v=4" width="50" />
@@ -82,6 +89,7 @@
         urlichelim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DmytroPutko">
         <img src="https://avatars.githubusercontent.com/u/189399819?v=4" width="50" />
@@ -89,7 +97,6 @@
         DmytroPutko
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Xmosha">
         <img src="https://avatars.githubusercontent.com/u/188451824?v=4" width="50" />
@@ -109,13 +116,6 @@
         <img src="https://avatars.githubusercontent.com/u/187626758?v=4" width="50" />
         <br />
         techteam92
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Rw04IXbfmSVM">
-        <img src="https://avatars.githubusercontent.com/u/187491365?v=4" width="50" />
-        <br />
-        Rw04IXbfmSVM
       </a>
     </td>
     <td width="150" align="center">
@@ -1084,10 +1084,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Davy-G">
+      <a href="https://github.com/gogodze">
         <img src="https://avatars.githubusercontent.com/u/93647029?v=4" width="50" />
         <br />
-        Davy-G
+        gogodze
       </a>
     </td>
     <td width="150" align="center">
@@ -1589,7 +1589,7 @@
   </tr>
 </table>
 
-## Following <kbd>461</kbd>
+## Following <kbd>460</kbd>
 
 <table>
   <tr>
@@ -3142,10 +3142,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Davy-G">
+      <a href="https://github.com/gogodze">
         <img src="https://avatars.githubusercontent.com/u/93647029?v=4" width="50" />
         <br />
-        Davy-G
+        gogodze
       </a>
     </td>
     <td width="150" align="center">
@@ -4798,13 +4798,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Rw04IXbfmSVM">
-        <img src="https://avatars.githubusercontent.com/u/187491365?v=4" width="50" />
-        <br />
-        Rw04IXbfmSVM
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/techteam92">
         <img src="https://avatars.githubusercontent.com/u/187626758?v=4" width="50" />
         <br />
@@ -4832,7 +4825,6 @@
         Xmosha
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kojoarhinful">
         <img src="https://avatars.githubusercontent.com/u/189059188?v=4" width="50" />
@@ -4840,6 +4832,7 @@
         kojoarhinful
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DmytroPutko">
         <img src="https://avatars.githubusercontent.com/u/189399819?v=4" width="50" />
@@ -4868,7 +4861,6 @@
         linux-webCodexT50
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/LinuxJS">
         <img src="https://avatars.githubusercontent.com/u/193270912?v=4" width="50" />
@@ -4876,6 +4868,7 @@
         LinuxJS
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aburraspace">
         <img src="https://avatars.githubusercontent.com/u/196363280?v=4" width="50" />
@@ -4904,21 +4897,12 @@
         AI4Networking
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/VicTorWHoX">
         <img src="https://avatars.githubusercontent.com/u/202363599?v=4" width="50" />
         <br />
         VicTorWHoX
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>

@@ -1656,7 +1656,7 @@
   </tr>
 </table>
 
-## Following <kbd>478</kbd>
+## Following <kbd>477</kbd>
 
 <table>
   <tr>
@@ -5009,13 +5009,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/ipqwery">
-        <img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="50" />
-        <br />
-        ipqwery
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/kojoarhinful">
         <img src="https://avatars.githubusercontent.com/u/189059188?v=4" width="50" />
         <br />
@@ -5043,7 +5036,6 @@
         iroot3
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/linux-webCodexT50">
         <img src="https://avatars.githubusercontent.com/u/192438182?v=4" width="50" />
@@ -5051,6 +5043,7 @@
         linux-webCodexT50
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/LinuxJS">
         <img src="https://avatars.githubusercontent.com/u/193270912?v=4" width="50" />
@@ -5079,7 +5072,6 @@
         Martinipalomar
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/likhonsheikhofficial">
         <img src="https://avatars.githubusercontent.com/u/203375680?v=4" width="50" />
@@ -5087,6 +5079,7 @@
         likhonsheikhofficial
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodeEvolv">
         <img src="https://avatars.githubusercontent.com/u/206376861?v=4" width="50" />
@@ -5100,6 +5093,8 @@
         <br />
         filedonkey
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

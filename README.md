@@ -1797,10 +1797,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/minion4code">
+      <a href="https://github.com/aaroncharley">
         <img src="https://avatars.githubusercontent.com/u/28304925?v=4" width="50" />
         <br />
-        minion4code
+        aaroncharley
       </a>
     </td>
     <td width="150" align="center">
@@ -2460,10 +2460,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/minion4code">
+      <a href="https://github.com/aaroncharley">
         <img src="https://avatars.githubusercontent.com/u/28304925?v=4" width="50" />
         <br />
-        minion4code
+        aaroncharley
       </a>
     </td>
   </tr><tr>

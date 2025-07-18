@@ -55,10 +55,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/lucasqatech">
+      <a href="https://github.com/lucasdcg">
         <img src="https://avatars.githubusercontent.com/u/213309731?v=4" width="50" />
         <br />
-        lucasqatech
+        lucasdcg
       </a>
     </td>
     <td width="150" align="center">
@@ -5235,10 +5235,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/lucasqatech">
+      <a href="https://github.com/lucasdcg">
         <img src="https://avatars.githubusercontent.com/u/213309731?v=4" width="50" />
         <br />
-        lucasqatech
+        lucasdcg
       </a>
     </td>
     <td width="150" align="center">

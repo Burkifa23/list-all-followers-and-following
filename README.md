@@ -1315,10 +1315,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/godyracks">
+      <a href="https://github.com/godfreymatagaro">
         <img src="https://avatars.githubusercontent.com/u/116557155?v=4" width="50" />
         <br />
-        godyracks
+        godfreymatagaro
       </a>
     </td>
     <td width="150" align="center">
@@ -3821,10 +3821,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/godyracks">
+      <a href="https://github.com/godfreymatagaro">
         <img src="https://avatars.githubusercontent.com/u/116557155?v=4" width="50" />
         <br />
-        godyracks
+        godfreymatagaro
       </a>
     </td>
     <td width="150" align="center">

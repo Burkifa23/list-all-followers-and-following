@@ -1,5 +1,7 @@
 # 😳 List All Followers And Following
 
+# I use this to check for GitHub bots, accounts that follow me, and unfollow.
+
  Easy view and filter all follows and following. Auto update by GitHub Action.
 
 - Since GitHub's default follows and following does not support paging and filtering

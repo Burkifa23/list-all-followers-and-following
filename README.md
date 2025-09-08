@@ -1279,10 +1279,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Muramatsuu">
+      <a href="https://github.com/mcgoon">
         <img src="https://avatars.githubusercontent.com/u/124514952?v=4" width="50" />
         <br />
-        Muramatsuu
+        mcgoon
       </a>
     </td>
     <td width="150" align="center">
@@ -4337,10 +4337,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Muramatsuu">
+      <a href="https://github.com/mcgoon">
         <img src="https://avatars.githubusercontent.com/u/124514952?v=4" width="50" />
         <br />
-        Muramatsuu
+        mcgoon
       </a>
     </td>
   </tr><tr>

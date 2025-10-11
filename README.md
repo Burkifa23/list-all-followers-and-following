@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>358</kbd>
+## Followers <kbd>357</kbd>
 
 <table>
   <tr>
@@ -2546,13 +2546,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/XiaomingX">
-        <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50" />
-        <br />
-        XiaomingX
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/sarkarshuvojit">
         <img src="https://avatars.githubusercontent.com/u/4627578?v=4" width="50" />
         <br />
@@ -2573,7 +2566,6 @@
         stevsharp
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/slavaGanzin">
         <img src="https://avatars.githubusercontent.com/u/1011721?v=4" width="50" />
@@ -2581,6 +2573,7 @@
         slavaGanzin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chatman-media">
         <img src="https://avatars.githubusercontent.com/u/883279?v=4" width="50" />
@@ -2594,6 +2587,8 @@
         <br />
         levonk
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

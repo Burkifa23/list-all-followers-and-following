@@ -2782,7 +2782,7 @@
   </tr>
 </table>
 
-## Following <kbd>577</kbd>
+## Following <kbd>578</kbd>
 
 <table>
   <tr>
@@ -6941,6 +6941,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Ashesi-Research-Club">
+        <img src="https://avatars.githubusercontent.com/u/241737721?v=4" width="50" />
+        <br />
+        Ashesi-Research-Club
+      </a>
     </td>
     <td width="150" align="center">
     </td>

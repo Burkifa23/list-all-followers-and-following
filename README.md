@@ -1372,10 +1372,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rushprotocol">
+      <a href="https://github.com/IamDevDan">
         <img src="https://avatars.githubusercontent.com/u/135226561?v=4" width="50" />
         <br />
-        rushprotocol
+        IamDevDan
       </a>
     </td>
     <td width="150" align="center">
@@ -5407,10 +5407,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rushprotocol">
+      <a href="https://github.com/IamDevDan">
         <img src="https://avatars.githubusercontent.com/u/135226561?v=4" width="50" />
         <br />
-        rushprotocol
+        IamDevDan
       </a>
     </td>
   </tr><tr>

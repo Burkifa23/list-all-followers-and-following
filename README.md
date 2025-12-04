@@ -2618,6 +2618,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/rodrigogalura">
+        <img src="https://avatars.githubusercontent.com/u/20660963?v=4" width="50" />
+        <br />
+        rodrigogalura
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Fadhaa">
         <img src="https://avatars.githubusercontent.com/u/18240431?v=4" width="50" />
         <br />
@@ -2638,6 +2645,7 @@
         IDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DanielArturoAlejoAlvarez">
         <img src="https://avatars.githubusercontent.com/u/18106359?v=4" width="50" />
@@ -2645,7 +2653,6 @@
         DanielArturoAlejoAlvarez
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Hajjouz">
         <img src="https://avatars.githubusercontent.com/u/18026754?v=4" width="50" />
@@ -2672,13 +2679,6 @@
         <img src="https://avatars.githubusercontent.com/u/13622306?v=4" width="50" />
         <br />
         CelaDaniel
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Hackinet">
-        <img src="https://avatars.githubusercontent.com/u/11132005?v=4" width="50" />
-        <br />
-        Hackinet
       </a>
     </td>
   </tr><tr>

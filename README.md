@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>403</kbd>
+## Followers <kbd>402</kbd>
 
 <table>
   <tr>
@@ -2913,11 +2913,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pongpong-zigzag">
-        <img src="https://avatars.githubusercontent.com/u/177026?v=4" width="50" />
-        <br />
-        pongpong-zigzag
-      </a>
     </td>
     <td width="150" align="center">
     </td>

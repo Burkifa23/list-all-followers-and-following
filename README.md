@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>412</kbd>
+## Followers <kbd>413</kbd>
 
 <table>
   <tr>
@@ -2834,6 +2834,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/tetref">
+        <img src="https://avatars.githubusercontent.com/u/11065044?v=4" width="50" />
+        <br />
+        tetref
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/murapadev">
         <img src="https://avatars.githubusercontent.com/u/10557163?v=4" width="50" />
         <br />
@@ -2854,6 +2861,7 @@
         hosseinhezami
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars.githubusercontent.com/u/7488394?v=4" width="50" />
@@ -2861,7 +2869,6 @@
         mustafacagri
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kai392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -2890,6 +2897,7 @@
         manman4
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kodsher">
         <img src="https://avatars.githubusercontent.com/u/6668625?v=4" width="50" />
@@ -2897,7 +2905,6 @@
         kodsher
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/spinute">
         <img src="https://avatars.githubusercontent.com/u/6639012?v=4" width="50" />
@@ -2926,6 +2933,7 @@
         unhappychoice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sarkarshuvojit">
         <img src="https://avatars.githubusercontent.com/u/4627578?v=4" width="50" />
@@ -2933,7 +2941,6 @@
         sarkarshuvojit
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
@@ -2962,6 +2969,7 @@
         slavaGanzin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chatman-media">
         <img src="https://avatars.githubusercontent.com/u/883279?v=4" width="50" />
@@ -2969,7 +2977,6 @@
         chatman-media
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/levonk">
         <img src="https://avatars.githubusercontent.com/u/277861?v=4" width="50" />
@@ -2983,8 +2990,6 @@
         <br />
         diorwave
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
@@ -3588,10 +3593,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Maclinz">
+      <a href="https://github.com/thecodedealer">
         <img src="https://avatars.githubusercontent.com/u/19819005?v=4" width="50" />
         <br />
-        Maclinz
+        thecodedealer
       </a>
     </td>
     <td width="150" align="center">
@@ -3790,10 +3795,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/throughtheroof">
+      <a href="https://github.com/omenworks">
         <img src="https://avatars.githubusercontent.com/u/33125782?v=4" width="50" />
         <br />
-        throughtheroof
+        omenworks
       </a>
     </td>
     <td width="150" align="center">

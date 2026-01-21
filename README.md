@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>415</kbd>
+## Followers <kbd>416</kbd>
 
 <table>
   <tr>
@@ -2783,13 +2783,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ZainJavaid">
+        <img src="https://avatars.githubusercontent.com/u/19959983?v=4" width="50" />
+        <br />
+        ZainJavaid
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Fadhaa">
         <img src="https://avatars.githubusercontent.com/u/18240431?v=4" width="50" />
         <br />
         Fadhaa
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ntfreddy">
         <img src="https://avatars.githubusercontent.com/u/18194805?v=4" width="50" />
@@ -2818,6 +2825,7 @@
         Hajjouz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dbunt1tled">
         <img src="https://avatars.githubusercontent.com/u/16355486?v=4" width="50" />
@@ -2825,7 +2833,6 @@
         dbunt1tled
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/karaflower">
         <img src="https://avatars.githubusercontent.com/u/15771659?v=4" width="50" />
@@ -2854,6 +2861,7 @@
         Hantan1080
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/murapadev">
         <img src="https://avatars.githubusercontent.com/u/10557163?v=4" width="50" />
@@ -2861,7 +2869,6 @@
         murapadev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Elbagoury">
         <img src="https://avatars.githubusercontent.com/u/9639673?v=4" width="50" />
@@ -2890,6 +2897,7 @@
         kai392
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
@@ -2897,7 +2905,6 @@
         KylerCondran
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/topsecretagent007">
         <img src="https://avatars.githubusercontent.com/u/7397803?v=4" width="50" />
@@ -2926,6 +2933,7 @@
         spinute
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
@@ -2933,7 +2941,6 @@
         idimetrix
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vega-soft">
         <img src="https://avatars.githubusercontent.com/u/5972413?v=4" width="50" />
@@ -2962,6 +2969,7 @@
         kenjinote
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Utopian88">
         <img src="https://avatars.githubusercontent.com/u/1979810?v=4" width="50" />
@@ -2969,7 +2977,6 @@
         Utopian88
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/stevsharp">
         <img src="https://avatars.githubusercontent.com/u/1948318?v=4" width="50" />
@@ -2998,12 +3005,21 @@
         levonk
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/diorwave">
         <img src="https://avatars.githubusercontent.com/u/79525?v=4" width="50" />
         <br />
         diorwave
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

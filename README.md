@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>413</kbd>
+## Followers <kbd>412</kbd>
 
 <table>
   <tr>
@@ -2985,11 +2985,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/diorwave">
-        <img src="https://avatars.githubusercontent.com/u/79525?v=4" width="50" />
-        <br />
-        diorwave
-      </a>
     </td>
     <td width="150" align="center">
     </td>

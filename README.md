@@ -472,10 +472,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ALttP">
+      <a href="https://github.com/songofhealing">
         <img src="https://avatars.githubusercontent.com/u/194071362?v=4" width="50" />
         <br />
-        ALttP
+        songofhealing
       </a>
     </td>
     <td width="150" align="center">

@@ -47,10 +47,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jamolbekjamolov50-jpg">
+      <a href="https://github.com/phanthom335">
         <img src="https://avatars.githubusercontent.com/u/244536535?v=4" width="50" />
         <br />
-        jamolbekjamolov50-jpg
+        phanthom335
       </a>
     </td>
   </tr><tr>
@@ -710,10 +710,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/silvershiny">
+      <a href="https://github.com/michaelmoyer7">
         <img src="https://avatars.githubusercontent.com/u/180705591?v=4" width="50" />
         <br />
-        silvershiny
+        michaelmoyer7
       </a>
     </td>
     <td width="150" align="center">
@@ -3043,10 +3043,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/smart-kyubi">
+      <a href="https://github.com/kyubinokitsune-ace">
         <img src="https://avatars.githubusercontent.com/u/177026?v=4" width="50" />
         <br />
-        smart-kyubi
+        kyubinokitsune-ace
       </a>
     </td>
     <td width="150" align="center">
@@ -6859,10 +6859,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/silvershiny">
+      <a href="https://github.com/michaelmoyer7">
         <img src="https://avatars.githubusercontent.com/u/180705591?v=4" width="50" />
         <br />
-        silvershiny
+        michaelmoyer7
       </a>
     </td>
     <td width="150" align="center">

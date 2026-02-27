@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>416</kbd>
+## Followers <kbd>417</kbd>
 
 <table>
   <tr>
@@ -1451,10 +1451,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/popstar7">
+      <a href="https://github.com/chrisarnold72">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        popstar7
+        chrisarnold72
       </a>
     </td>
   </tr><tr>
@@ -2949,6 +2949,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/kylemank">
+        <img src="https://avatars.githubusercontent.com/u/6315420?v=4" width="50" />
+        <br />
+        kylemank
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/vega-soft">
         <img src="https://avatars.githubusercontent.com/u/5972413?v=4" width="50" />
         <br />
@@ -2962,6 +2969,7 @@
         unhappychoice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sarkarshuvojit">
         <img src="https://avatars.githubusercontent.com/u/4627578?v=4" width="50" />
@@ -2969,7 +2977,6 @@
         sarkarshuvojit
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
@@ -2998,6 +3005,7 @@
         slavaGanzin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chatman-media">
         <img src="https://avatars.githubusercontent.com/u/883279?v=4" width="50" />
@@ -3005,15 +3013,12 @@
         chatman-media
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/levonk">
         <img src="https://avatars.githubusercontent.com/u/277861?v=4" width="50" />
         <br />
         levonk
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
@@ -5880,10 +5885,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/popstar7">
+      <a href="https://github.com/chrisarnold72">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        popstar7
+        chrisarnold72
       </a>
     </td>
     <td width="150" align="center">

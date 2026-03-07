@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Accra | [@Ashesi University](https://github.com/Ashesi University) |
 
-## Followers <kbd>435</kbd>
+## Followers <kbd>440</kbd>
 
 <table>
   <tr>
@@ -1307,13 +1307,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/jeffyonk">
+        <img src="https://avatars.githubusercontent.com/u/149965018?v=4" width="50" />
+        <br />
+        jeffyonk
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/StefanHritcu">
         <img src="https://avatars.githubusercontent.com/u/148911384?v=4" width="50" />
         <br />
         StefanHritcu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kairatzh">
         <img src="https://avatars.githubusercontent.com/u/148870880?v=4" width="50" />
@@ -1342,6 +1349,7 @@
         aifoli-ms
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/net-folade">
         <img src="https://avatars.githubusercontent.com/u/148221490?v=4" width="50" />
@@ -1349,7 +1357,6 @@
         net-folade
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kwekudzata">
         <img src="https://avatars.githubusercontent.com/u/148214043?v=4" width="50" />
@@ -1378,6 +1385,7 @@
         gaqx
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Maxwell-Muthui-Mwangi">
         <img src="https://avatars.githubusercontent.com/u/146504812?v=4" width="50" />
@@ -1385,7 +1393,6 @@
         Maxwell-Muthui-Mwangi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/codewithdhruba01">
         <img src="https://avatars.githubusercontent.com/u/146111647?v=4" width="50" />
@@ -1414,6 +1421,7 @@
         marichu-kt
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/erencoskun11">
         <img src="https://avatars.githubusercontent.com/u/143544935?v=4" width="50" />
@@ -1421,7 +1429,6 @@
         erencoskun11
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vegata099">
         <img src="https://avatars.githubusercontent.com/u/143282825?v=4" width="50" />
@@ -1444,6 +1451,14 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/serhatbula">
+        <img src="https://avatars.githubusercontent.com/u/141905874?v=4" width="50" />
+        <br />
+        serhatbula
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Bifenzine">
         <img src="https://avatars.githubusercontent.com/u/141869601?v=4" width="50" />
         <br />
@@ -1457,7 +1472,6 @@
         aertsimon90
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/whitenight-eco">
         <img src="https://avatars.githubusercontent.com/u/141316498?v=4" width="50" />
@@ -1479,6 +1493,21 @@
         chrisarnold72
       </a>
     </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Fredhusne">
+        <img src="https://avatars.githubusercontent.com/u/140325010?v=4" width="50" />
+        <br />
+        Fredhusne
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jeniflery">
+        <img src="https://avatars.githubusercontent.com/u/140017638?v=4" width="50" />
+        <br />
+        jeniflery
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/AhmadTigress">
         <img src="https://avatars.githubusercontent.com/u/139285648?v=4" width="50" />
@@ -1493,7 +1522,6 @@
         Hfid-Mokhtare
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mightstar">
         <img src="https://avatars.githubusercontent.com/u/137803468?v=4" width="50" />
@@ -1501,6 +1529,7 @@
         mightstar
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Laqrabti">
         <img src="https://avatars.githubusercontent.com/u/137748143?v=4" width="50" />
@@ -1529,7 +1558,6 @@
         dawoodkhatri1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdsohelrana-contact">
         <img src="https://avatars.githubusercontent.com/u/136493260?v=4" width="50" />
@@ -1537,6 +1565,7 @@
         mdsohelrana-contact
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HectorDanielAyarachiFuentes">
         <img src="https://avatars.githubusercontent.com/u/135895299?v=4" width="50" />
@@ -1549,6 +1578,13 @@
         <img src="https://avatars.githubusercontent.com/u/135226561?v=4" width="50" />
         <br />
         IamDevDan
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/riseyuka">
+        <img src="https://avatars.githubusercontent.com/u/135015999?v=4" width="50" />
+        <br />
+        riseyuka
       </a>
     </td>
     <td width="150" align="center">
@@ -1732,10 +1768,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/git0802">
+      <a href="https://github.com/lovebee88888888">
         <img src="https://avatars.githubusercontent.com/u/124145401?v=4" width="50" />
         <br />
-        git0802
+        lovebee88888888
       </a>
     </td>
     <td width="150" align="center">
@@ -5626,10 +5662,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/git0802">
+      <a href="https://github.com/lovebee88888888">
         <img src="https://avatars.githubusercontent.com/u/124145401?v=4" width="50" />
         <br />
-        git0802
+        lovebee88888888
       </a>
     </td>
     <td width="150" align="center">

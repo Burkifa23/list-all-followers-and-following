@@ -220,10 +220,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/SU-CCUBUS">
+      <a href="https://github.com/pwndrew">
         <img src="https://avatars.githubusercontent.com/u/217562354?v=4" width="50" />
         <br />
-        SU-CCUBUS
+        pwndrew
       </a>
     </td>
     <td width="150" align="center">
@@ -1473,10 +1473,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/chrisarnold72">
+      <a href="https://github.com/myVos-dev">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        chrisarnold72
+        myVos-dev
       </a>
     </td>
     <td width="150" align="center">
@@ -5890,10 +5890,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/chrisarnold72">
+      <a href="https://github.com/myVos-dev">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        chrisarnold72
+        myVos-dev
       </a>
     </td>
     <td width="150" align="center">
@@ -7467,10 +7467,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/SU-CCUBUS">
+      <a href="https://github.com/pwndrew">
         <img src="https://avatars.githubusercontent.com/u/217562354?v=4" width="50" />
         <br />
-        SU-CCUBUS
+        pwndrew
       </a>
     </td>
     <td width="150" align="center">

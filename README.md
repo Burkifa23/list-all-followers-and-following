@@ -1927,10 +1927,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/lorde-enigma">
+      <a href="https://github.com/sanchezcpp">
         <img src="https://avatars.githubusercontent.com/u/114457825?v=4" width="50" />
         <br />
-        lorde-enigma
+        sanchezcpp
       </a>
     </td>
     <td width="150" align="center">
@@ -5318,10 +5318,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lorde-enigma">
+      <a href="https://github.com/sanchezcpp">
         <img src="https://avatars.githubusercontent.com/u/114457825?v=4" width="50" />
         <br />
-        lorde-enigma
+        sanchezcpp
       </a>
     </td>
     <td width="150" align="center">

@@ -343,10 +343,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/batcurn">
+      <a href="https://github.com/btncrn">
         <img src="https://avatars.githubusercontent.com/u/207216445?v=4" width="50" />
         <br />
-        batcurn
+        btncrn
       </a>
     </td>
     <td width="150" align="center">
@@ -7371,10 +7371,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/batcurn">
+      <a href="https://github.com/btncrn">
         <img src="https://avatars.githubusercontent.com/u/207216445?v=4" width="50" />
         <br />
-        batcurn
+        btncrn
       </a>
     </td>
     <td width="150" align="center">

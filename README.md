@@ -667,10 +667,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/climax-dev-1">
+      <a href="https://github.com/CaptnCompile">
         <img src="https://avatars.githubusercontent.com/u/184758318?v=4" width="50" />
         <br />
-        climax-dev-1
+        CaptnCompile
       </a>
     </td>
     <td width="150" align="center">
@@ -6982,10 +6982,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/climax-dev-1">
+      <a href="https://github.com/CaptnCompile">
         <img src="https://avatars.githubusercontent.com/u/184758318?v=4" width="50" />
         <br />
-        climax-dev-1
+        CaptnCompile
       </a>
     </td>
     <td width="150" align="center">

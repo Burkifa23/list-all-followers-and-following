@@ -235,10 +235,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/pwndrew">
+      <a href="https://github.com/re-gect">
         <img src="https://avatars.githubusercontent.com/u/217562354?v=4" width="50" />
         <br />
-        pwndrew
+        re-gect
       </a>
     </td>
     <td width="150" align="center">
@@ -7543,10 +7543,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pwndrew">
+      <a href="https://github.com/re-gect">
         <img src="https://avatars.githubusercontent.com/u/217562354?v=4" width="50" />
         <br />
-        pwndrew
+        re-gect
       </a>
     </td>
     <td width="150" align="center">

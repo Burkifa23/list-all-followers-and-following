@@ -26,10 +26,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zahracheginy">
+      <a href="https://github.com/vibecodinguy">
         <img src="https://avatars.githubusercontent.com/u/258407493?v=4" width="50" />
         <br />
-        zahracheginy
+        vibecodinguy
       </a>
     </td>
     <td width="150" align="center">

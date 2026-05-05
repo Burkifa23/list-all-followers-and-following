@@ -1495,10 +1495,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/myVos-dev">
+      <a href="https://github.com/popstar7">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        myVos-dev
+        popstar7
       </a>
     </td>
     <td width="150" align="center">
@@ -5933,10 +5933,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/myVos-dev">
+      <a href="https://github.com/popstar7">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        myVos-dev
+        popstar7
       </a>
     </td>
     <td width="150" align="center">

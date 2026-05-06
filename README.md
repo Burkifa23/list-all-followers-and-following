@@ -69,10 +69,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vontanne">
+      <a href="https://github.com/vontanne2">
         <img src="https://avatars.githubusercontent.com/u/247956544?v=4" width="50" />
         <br />
-        vontanne
+        vontanne2
       </a>
     </td>
     <td width="150" align="center">

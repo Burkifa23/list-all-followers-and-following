@@ -458,10 +458,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Renan092992">
+      <a href="https://github.com/AstroLogics">
         <img src="https://avatars.githubusercontent.com/u/198600993?v=4" width="50" />
         <br />
-        Renan092992
+        AstroLogics
       </a>
     </td>
     <td width="150" align="center">
@@ -883,10 +883,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/iousuz">
+      <a href="https://github.com/SH0WA">
         <img src="https://avatars.githubusercontent.com/u/169976903?v=4" width="50" />
         <br />
-        iousuz
+        SH0WA
       </a>
     </td>
     <td width="150" align="center">
@@ -7231,10 +7231,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Renan092992">
+      <a href="https://github.com/AstroLogics">
         <img src="https://avatars.githubusercontent.com/u/198600993?v=4" width="50" />
         <br />
-        Renan092992
+        AstroLogics
       </a>
     </td>
     <td width="150" align="center">

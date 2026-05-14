@@ -883,10 +883,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/SH0WA">
+      <a href="https://github.com/iousuz">
         <img src="https://avatars.githubusercontent.com/u/169976903?v=4" width="50" />
         <br />
-        SH0WA
+        iousuz
       </a>
     </td>
     <td width="150" align="center">

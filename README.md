@@ -364,10 +364,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Upwork-Job32">
+      <a href="https://github.com/MasterCode-astro">
         <img src="https://avatars.githubusercontent.com/u/206136370?v=4" width="50" />
         <br />
-        Upwork-Job32
+        MasterCode-astro
       </a>
     </td>
     <td width="150" align="center">
@@ -7413,10 +7413,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Upwork-Job32">
+      <a href="https://github.com/MasterCode-astro">
         <img src="https://avatars.githubusercontent.com/u/206136370?v=4" width="50" />
         <br />
-        Upwork-Job32
+        MasterCode-astro
       </a>
     </td>
   </tr><tr>

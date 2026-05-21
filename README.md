@@ -33,10 +33,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/brunomadrigal80">
+      <a href="https://github.com/HC59648">
         <img src="https://avatars.githubusercontent.com/u/258112009?v=4" width="50" />
         <br />
-        brunomadrigal80
+        HC59648
       </a>
     </td>
     <td width="150" align="center">

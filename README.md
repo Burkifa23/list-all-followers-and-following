@@ -105,10 +105,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ankitaaryal">
-        <img src="https://avatars.githubusercontent.com/u/235869631?v=4" width="50" />
+      <a href="https://github.com/swe3tt0oth">
+        <img src="https://avatars.githubusercontent.com/u/235845453?v=4" width="50" />
         <br />
-        ankitaaryal
+        swe3tt0oth
       </a>
     </td>
     <td width="150" align="center">
@@ -3835,10 +3835,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/alonso-fernandezz">
+      <a href="https://github.com/jhonathan-humnel">
         <img src="https://avatars.githubusercontent.com/u/29397900?v=4" width="50" />
         <br />
-        alonso-fernandezz
+        jhonathan-humnel
       </a>
     </td>
     <td width="150" align="center">

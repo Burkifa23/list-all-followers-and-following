@@ -98,10 +98,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/es4kai">
+      <a href="https://github.com/martycorn">
         <img src="https://avatars.githubusercontent.com/u/239345663?v=4" width="50" />
         <br />
-        es4kai
+        martycorn
       </a>
     </td>
     <td width="150" align="center">

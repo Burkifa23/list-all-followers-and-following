@@ -119,10 +119,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/swe3tt0oth">
+      <a href="https://github.com/cyanile">
         <img src="https://avatars.githubusercontent.com/u/235845453?v=4" width="50" />
         <br />
-        swe3tt0oth
+        cyanile
       </a>
     </td>
   </tr><tr>
@@ -7370,10 +7370,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/keegan-carey">
+      <a href="https://github.com/rayshaun-code">
         <img src="https://avatars.githubusercontent.com/u/196681023?v=4" width="50" />
         <br />
-        keegan-carey
+        rayshaun-code
       </a>
     </td>
     <td width="150" align="center">

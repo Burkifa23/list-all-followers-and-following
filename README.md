@@ -12,7 +12,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| FRANK KWIZERA MUGWANEZA | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Berekuso | [@Ashesi University](https://github.com/Ashesi University) |
+| Frank Kwizera | Hello, GitHub! I focus on adding support for African Languages on open-source applications. | [https://burkifa23.github.io/](https://https://burkifa23.github.io/) | Ghana, Berekuso | [@Ashesi University](https://github.com/Ashesi University) |
 
 ## Followers <kbd>433</kbd>
 
@@ -5667,10 +5667,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/theonejvo">
+      <a href="https://github.com/nodacryy">
         <img src="https://avatars.githubusercontent.com/u/125909656?v=4" width="50" />
         <br />
-        theonejvo
+        nodacryy
       </a>
     </td>
     <td width="150" align="center">

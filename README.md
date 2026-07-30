@@ -91,10 +91,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/artwopee">
+      <a href="https://github.com/artwopen">
         <img src="https://avatars.githubusercontent.com/u/247956544?v=4" width="50" />
         <br />
-        artwopee
+        artwopen
       </a>
     </td>
     <td width="150" align="center">

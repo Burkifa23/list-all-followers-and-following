@@ -7160,10 +7160,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/floor-licker">
+      <a href="https://github.com/jtranq">
         <img src="https://avatars.githubusercontent.com/u/189046821?v=4" width="50" />
         <br />
-        floor-licker
+        jtranq
       </a>
     </td>
     <td width="150" align="center">

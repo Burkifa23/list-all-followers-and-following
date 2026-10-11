@@ -2575,10 +2575,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/emilycodestar">
+      <a href="https://github.com/segfltt">
         <img src="https://avatars.githubusercontent.com/u/58666088?v=4" width="50" />
         <br />
-        emilycodestar
+        segfltt
       </a>
     </td>
     <td width="150" align="center">
@@ -4294,10 +4294,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/emilycodestar">
+      <a href="https://github.com/segfltt">
         <img src="https://avatars.githubusercontent.com/u/58666088?v=4" width="50" />
         <br />
-        emilycodestar
+        segfltt
       </a>
     </td>
     <td width="150" align="center">

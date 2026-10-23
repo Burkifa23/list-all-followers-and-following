@@ -3387,10 +3387,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/alexgman">
+      <a href="https://github.com/kanoi4ai">
         <img src="https://avatars.githubusercontent.com/u/4227695?v=4" width="50" />
         <br />
-        alexgman
+        kanoi4ai
       </a>
     </td>
     <td width="150" align="center">

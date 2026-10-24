@@ -3188,7 +3188,7 @@
   </tr>
 </table>
 
-## Following <kbd>642</kbd>
+## Following <kbd>643</kbd>
 
 <table>
   <tr>
@@ -7678,12 +7678,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Emmanuel-Osae">
+        <img src="https://avatars.githubusercontent.com/u/222422421?v=4" width="50" />
+        <br />
+        Emmanuel-Osae
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/mehranbehnam">
         <img src="https://avatars.githubusercontent.com/u/222860612?v=4" width="50" />
         <br />
         mehranbehnam
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yogaarrd">
         <img src="https://avatars.githubusercontent.com/u/225699449?v=4" width="50" />
@@ -7691,7 +7699,6 @@
         yogaarrd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/QuantumExMachina">
         <img src="https://avatars.githubusercontent.com/u/226945318?v=4" width="50" />
@@ -7720,6 +7727,7 @@
         obedbabington
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Solnaa-20">
         <img src="https://avatars.githubusercontent.com/u/231911399?v=4" width="50" />
@@ -7727,7 +7735,6 @@
         Solnaa-20
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/foultraengineer9">
         <img src="https://avatars.githubusercontent.com/u/234614101?v=4" width="50" />
@@ -7756,6 +7763,7 @@
         FlowStateLogic
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/calebstudio9">
         <img src="https://avatars.githubusercontent.com/u/240096994?v=4" width="50" />
@@ -7763,7 +7771,6 @@
         calebstudio9
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mamun196255">
         <img src="https://avatars.githubusercontent.com/u/240131052?v=4" width="50" />
@@ -7792,6 +7799,7 @@
         ChatHivernal
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gtechskillhub">
         <img src="https://avatars.githubusercontent.com/u/257130794?v=4" width="50" />
@@ -7799,7 +7807,6 @@
         gtechskillhub
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/annotate-io">
         <img src="https://avatars.githubusercontent.com/u/257399900?v=4" width="50" />
@@ -7813,8 +7820,6 @@
         <br />
         GTechSkillsHub
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

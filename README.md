@@ -19,17 +19,17 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/coffsec">
+        <img src="https://avatars.githubusercontent.com/u/336862857?v=4" width="50" />
+        <br />
+        coffsec
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/lxlynx">
         <img src="https://avatars.githubusercontent.com/u/324573839?v=4" width="50" />
         <br />
         lxlynx
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Git-FED">
-        <img src="https://avatars.githubusercontent.com/u/309251726?v=4" width="50" />
-        <br />
-        Git-FED
       </a>
     </td>
     <td width="150" align="center">
